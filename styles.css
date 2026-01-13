@@ -1,0 +1,104 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #636363;
+}
+
+.projects-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.project {
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column-reverse;
+    width: 300px;
+    justify-content: flex-end;
+}
+
+.repo {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 5;
+    margin-bottom: 5px;
+}
+
+.repo a {
+    text-decoration: none;
+    color: white;
+    color: #000;
+    font-weight: bold;
+    font-size: 20px;
+    position: relative;
+}
+
+.repo a::after {
+    content: "Show Repo";
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    text-align: center;
+    color: #000;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    background-color: #818080ff;
+    border-radius: 5px;
+}
+
+.repo a:hover {
+    color: transparent;
+}
+
+.repo a:hover::after {
+    opacity: 1;
+}
+
+.pages img {
+    width: 300px;
+    height: 200px;
+}
+
+.pages {
+    position: relative;
+    display: inline-block;
+    overflow: hidden;
+}
+
+.pages::after {
+    content: "Play";
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: rgba(0, 0, 0, 0.6);
+    color: #fff;
+    padding: 10px 20px;
+    font-size: 18px;
+    border-radius: 5px;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+}
+
+.pages:hover::after {
+    opacity: 1;
+}
+
+.corner-label {
+    position: absolute;
+    top: 60px;
+    right: -20px;
+    background-color: #ff0000;
+    color: #fff;
+    padding: 5px 50px;
+    font-size: 14px;
+    font-weight: bold;
+    transform: rotate(45deg);
+    transform-origin: top right;
+    z-index: 10;
+}
