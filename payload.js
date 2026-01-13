@@ -62,6 +62,7 @@ const payload = [
         thumbnail:
             "https://raw.githubusercontent.com/MichalKuracina/Fun-Projects/main/Thumbnails/maze-generator-wilson-s-algorithm.png",
         alt: "maze-generator-wilson-s-algorithm",
+        new: true,
     },
     {
         name: "Maze Generator Prim's algorithm",
@@ -86,6 +87,5 @@ const payload = [
         thumbnail:
             "https://raw.githubusercontent.com/MichalKuracina/Fun-Projects/main/Thumbnails/maze-generator-kruskal-s-algorithm.png",
         alt: "maze-generator-kruskal-s-algorithm",
-        new: true,
     },
 ];
