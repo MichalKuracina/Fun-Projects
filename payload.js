@@ -4,7 +4,7 @@ const payload = [
         repo: "https://github.com/MichalKuracina/Tower-Defense",
         pages: "https://michalkuracina.github.io/Tower-Defense/",
         thumbnail:
-            "https://raw.githubusercontent.com/MichalKuracina/MichalKuracina/main/Thumbnails/tower-defense.png",
+            "https://raw.githubusercontent.com/MichalKuracina/Fun-Projects/main/Thumbnails/tower-defense.png",
         alt: "HTML tutorial",
     },
     {
@@ -12,7 +12,7 @@ const payload = [
         repo: "https://github.com/MichalKuracina/PortfolioWebPage/tree/main/scripts/project2",
         pages: "https://michalkuracina.github.io/PortfolioWebPage/pages/project2.html",
         thumbnail:
-            "https://raw.githubusercontent.com/MichalKuracina/MichalKuracina/main/Thumbnails/cats-vs-robots.png",
+            "https://raw.githubusercontent.com/MichalKuracina/Fun-Projects/main/Thumbnails/cats-vs-robots.png",
         alt: "cats-vs-robots",
     },
     {
@@ -20,7 +20,7 @@ const payload = [
         repo: "https://github.com/MichalKuracina/005-Space-Invaders/",
         pages: "https://michalkuracina.github.io/005-Space-Invaders/",
         thumbnail:
-            "https://raw.githubusercontent.com/MichalKuracina/MichalKuracina/main/Thumbnails/space-invaders.png",
+            "https://raw.githubusercontent.com/MichalKuracina/Fun-Projects/main/Thumbnails/space-invaders.png",
         alt: "space-invaders",
     },
     {
@@ -28,7 +28,7 @@ const payload = [
         repo: "https://github.com/MichalKuracina/001-Starfield/",
         pages: "https://michalkuracina.github.io/001-Starfield/",
         thumbnail:
-            "https://raw.githubusercontent.com/MichalKuracina/MichalKuracina/main/Thumbnails/starfield.png",
+            "https://raw.githubusercontent.com/MichalKuracina/Fun-Projects/main/Thumbnails/starfield.png",
         alt: "starfield",
     },
     {
@@ -36,7 +36,7 @@ const payload = [
         repo: "https://github.com/MichalKuracina/003-The-Snake-Game/",
         pages: "https://michalkuracina.github.io/003-The-Snake-Game/",
         thumbnail:
-            "https://raw.githubusercontent.com/MichalKuracina/MichalKuracina/main/Thumbnails/the-snake-game.png",
+            "https://raw.githubusercontent.com/MichalKuracina/Fun-Projects/main/Thumbnails/the-snake-game.png",
         alt: "the-snake-game",
     },
     {
@@ -44,7 +44,7 @@ const payload = [
         repo: "https://github.com/MichalKuracina/004-Purple-Rain/",
         pages: "https://michalkuracina.github.io/004-Purple-Rain/",
         thumbnail:
-            "https://raw.githubusercontent.com/MichalKuracina/MichalKuracina/main/Thumbnails/purple-rain.png",
+            "https://raw.githubusercontent.com/MichalKuracina/Fun-Projects/main/Thumbnails/purple-rain.png",
         alt: "purple-rain",
     },
     {
@@ -52,7 +52,7 @@ const payload = [
         repo: "https://github.com/MichalKuracina/007-Solar-System-2D/",
         pages: "https://michalkuracina.github.io/007-Solar-System-2D/",
         thumbnail:
-            "https://raw.githubusercontent.com/MichalKuracina/MichalKuracina/main/Thumbnails/solar-system-2d.png",
+            "https://raw.githubusercontent.com/MichalKuracina/Fun-Projects/main/Thumbnails/solar-system-2d.png",
         alt: "solar-system-2d",
     },
     {
@@ -60,7 +60,7 @@ const payload = [
         repo: "https://github.com/MichalKuracina/010-Maze-Generator-Wilson-s-algorithm",
         pages: "https://michalkuracina.github.io/010-Maze-Generator-Wilson-s-algorithm/",
         thumbnail:
-            "https://raw.githubusercontent.com/MichalKuracina/MichalKuracina/main/Thumbnails/maze-generator-wilson-s-algorithm.png",
+            "https://raw.githubusercontent.com/MichalKuracina/Fun-Projects/main/Thumbnails/maze-generator-wilson-s-algorithm.png",
         alt: "maze-generator-wilson-s-algorithm",
     },
     {
@@ -68,7 +68,7 @@ const payload = [
         repo: "https://github.com/MichalKuracina/010-Maze-Generator-Prim-s-algorithm",
         pages: "https://michalkuracina.github.io/010-Maze-Generator-Prim-s-algorithm/",
         thumbnail:
-            "https://raw.githubusercontent.com/MichalKuracina/MichalKuracina/main/Thumbnails/maze-generator-prim-s-algorithm.png",
+            "https://raw.githubusercontent.com/MichalKuracina/Fun-Projects/main/Thumbnails/maze-generator-prim-s-algorithm.png",
         alt: "maze-generator-prim-s-algorithm",
     },
     {
@@ -76,7 +76,7 @@ const payload = [
         repo: "https://github.com/MichalKuracina/010-Maze-Generator-Randomized-depth-first",
         pages: "https://michalkuracina.github.io/010-Maze-Generator-Randomized-depth-first/",
         thumbnail:
-            "https://raw.githubusercontent.com/MichalKuracina/MichalKuracina/main/Thumbnails/maze-generator-randomized-depth-first.png",
+            "https://raw.githubusercontent.com/MichalKuracina/Fun-Projects/main/Thumbnails/maze-generator-randomized-depth-first.png",
         alt: "maze-generator-randomized-depth-first",
     },
     {
@@ -84,7 +84,7 @@ const payload = [
         repo: "https://github.com/MichalKuracina/010-Maze-Generator-Kruskal-s-algorithm",
         pages: "https://michalkuracina.github.io/010-Maze-Generator-Kruskal-s-algorithm/",
         thumbnail:
-            "https://raw.githubusercontent.com/MichalKuracina/MichalKuracina/main/Thumbnails/maze-generator-kruskal-s-algorithm.png",
+            "https://raw.githubusercontent.com/MichalKuracina/Fun-Projects/main/Thumbnails/maze-generator-kruskal-s-algorithm.png",
         alt: "maze-generator-kruskal-s-algorithm",
         new: true,
     },
