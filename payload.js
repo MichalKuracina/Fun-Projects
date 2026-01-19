@@ -62,7 +62,6 @@ const payload = [
         thumbnail:
             "https://raw.githubusercontent.com/MichalKuracina/Fun-Projects/main/Thumbnails/maze-generator-wilson-s-algorithm.png",
         alt: "maze-generator-wilson-s-algorithm",
-        new: true,
     },
     {
         name: "Maze Generator Prim's algorithm",
@@ -87,5 +86,14 @@ const payload = [
         thumbnail:
             "https://raw.githubusercontent.com/MichalKuracina/Fun-Projects/main/Thumbnails/maze-generator-kruskal-s-algorithm.png",
         alt: "maze-generator-kruskal-s-algorithm",
+    },
+    {
+        name: "3D Terrain Generation",
+        repo: "https://github.com/MichalKuracina/011-3D-Terrain-Generation",
+        pages: "https://michalkuracina.github.io/011-3D-Terrain-Generation/",
+        thumbnail:
+            "https://raw.githubusercontent.com/MichalKuracina/Fun-Projects/main/Thumbnails/3d-terrain-generation.png",
+        alt: "3D-Terrain-Generation",
+        new: true,
     },
 ];
