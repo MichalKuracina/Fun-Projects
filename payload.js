@@ -94,6 +94,14 @@ const payload = [
         thumbnail:
             "https://raw.githubusercontent.com/MichalKuracina/Fun-Projects/main/Thumbnails/3d-terrain-generation.png",
         alt: "3D-Terrain-Generation",
+    },
+    {
+        name: "Fractal Tree",
+        repo: "https://github.com/MichalKuracina/014-Fractal-Tree",
+        pages: "https://michalkuracina.github.io/014-Fractal-Tree/",
+        thumbnail:
+            "https://raw.githubusercontent.com/MichalKuracina/Fun-Projects/main/Thumbnails/fractal-tree.png",
+        alt: "Fractal-Tree",
         new: true,
     },
 ];
